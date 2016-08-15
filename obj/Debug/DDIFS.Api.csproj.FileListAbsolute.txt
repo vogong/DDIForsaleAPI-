@@ -1,0 +1,9 @@
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\DDIFS.Api.dll
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\DDIFS.Api.pdb
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\Newtonsoft.Json.dll
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\RestSharp.dll
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\Newtonsoft.Json.xml
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\bin\Debug\RestSharp.xml
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\obj\Debug\DDIFS.Api.dll
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\obj\Debug\DDIFS.Api.pdb
+H:\Vaughn\Development-Allxs\VWGALLXS\TriosWeb\DDIFS.Api\obj\Debug\DDIFS.Api.csprojResolveAssemblyReference.cache
